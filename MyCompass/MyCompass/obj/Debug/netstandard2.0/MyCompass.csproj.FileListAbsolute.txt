@@ -1,0 +1,12 @@
+/Users/mcrnkovic/Projects/app-compass/MyCompass/MyCompass/bin/Debug/netstandard2.0/MyCompass.deps.json
+/Users/mcrnkovic/Projects/app-compass/MyCompass/MyCompass/bin/Debug/netstandard2.0/MyCompass.dll
+/Users/mcrnkovic/Projects/app-compass/MyCompass/MyCompass/bin/Debug/netstandard2.0/MyCompass.pdb
+/Users/mcrnkovic/Projects/app-compass/MyCompass/MyCompass/obj/Debug/netstandard2.0/MyCompass.csproj.AssemblyReference.cache
+/Users/mcrnkovic/Projects/app-compass/MyCompass/MyCompass/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mcrnkovic/Projects/app-compass/MyCompass/MyCompass/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mcrnkovic/Projects/app-compass/MyCompass/MyCompass/obj/Debug/netstandard2.0/MyCompass.AssemblyInfoInputs.cache
+/Users/mcrnkovic/Projects/app-compass/MyCompass/MyCompass/obj/Debug/netstandard2.0/MyCompass.AssemblyInfo.cs
+/Users/mcrnkovic/Projects/app-compass/MyCompass/MyCompass/obj/Debug/netstandard2.0/MyCompass.csproj.CoreCompileInputs.cache
+/Users/mcrnkovic/Projects/app-compass/MyCompass/MyCompass/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mcrnkovic/Projects/app-compass/MyCompass/MyCompass/obj/Debug/netstandard2.0/MyCompass.dll
+/Users/mcrnkovic/Projects/app-compass/MyCompass/MyCompass/obj/Debug/netstandard2.0/MyCompass.pdb
